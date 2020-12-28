@@ -1,2 +1,2 @@
-# Attendand
+# Attendance
 Practices
